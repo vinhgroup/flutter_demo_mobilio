@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Tai nghe không dây chất lượng cao với âm thanh rõ nét, thời lượng pin lên đến 20 giờ và kết nối Bluetooth 5.0 ổn định."
+    },
+    {
+      "name": "Smart Watch",
+      "price": 129.50,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Đồng hồ thông minh với màn hình cảm ứng, theo dõi nhịp tim, đếm bước chân, chống nước và hỗ trợ thông báo cuộc gọi, tin nhắn."
+    },
+    {
+      "name": "Digital Camera",
+      "price": 299.00,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Máy ảnh kỹ thuật số nhỏ gọn, cảm biến 20MP, quay video Full HD và tích hợp WiFi để chia sẻ ảnh nhanh chóng."
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "price": 39.95,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Loa Bluetooth mini âm thanh sống động, thời lượng pin 10 giờ, chống nước IPX5 – lý tưởng cho dã ngoại và du lịch."
+    },
+    {
+      "name": "Gaming Mouse",
+      "price": 24.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Chuột chơi game cảm biến chính xác, DPI điều chỉnh lên đến 6400, thiết kế công thái học với đèn LED RGB."
+    },
+    {
+      "name": "Laptop Stand",
+      "price": 19.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Giá đỡ laptop bằng nhôm, thiết kế gập gọn, giúp nâng cao màn hình và cải thiện tư thế ngồi làm việc."
+    },
+    {
+      "name": "Portable Charger",
+      "price": 34.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Sạc dự phòng dung lượng 10000mAh, hỗ trợ sạc nhanh QC 3.0 và cổng USB-C tiện lợi."
+    },
+    {
+      "name": "Wireless Keyboard",
+      "price": 49.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Bàn phím không dây thiết kế mỏng nhẹ, kết nối Bluetooth, tương thích với nhiều thiết bị."
+    },
+    {
+      "name": "Smartphone Gimbal",
+      "price": 89.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Gimbal chống rung cho điện thoại, hỗ trợ quay video mượt mà, tích hợp nhiều chế độ chụp."
+    },
+    {
+      "name": "Noise Cancelling Earbuds",
+      "price": 79.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Tai nghe nhét tai chống ồn chủ động, âm thanh chất lượng cao, thời lượng pin lên đến 8 giờ."
+    },
+    {
+      "name": "Smart Home Hub",
+      "price": 99.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Thiết bị trung tâm điều khiển nhà thông minh, hỗ trợ kết nối với nhiều thiết bị và trợ lý ảo."
+    },
+    {
+      "name": "4K Action Camera",
+      "price": 149.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Camera hành trình quay video 4K, chống nước, tích hợp WiFi và nhiều phụ kiện đi kèm."
+    },
+    {
+      "name": "Wireless Charging Pad",
+      "price": 29.99,
+      "image": "https://images.unsplash.com/photo-16n03791440384-56cd371ee9a7",
+      "detail": "Đế sạc không dây chuẩn Qi, hỗ trợ sạc nhanh, thiết kế mỏng nhẹ và an toàn."
+    },
+    {
+      "name": "Fitness Tracker",
+      "price": 59.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Vòng đeo tay theo dõi sức khỏe, đo nhịp tim, đếm bước chân và theo dõi giấc ngủ."
+    },
+    {
+      "name": "Smart Light Bulb",
+      "price": 14.99,
+      "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+      "detail": "Bóng đèn thông minh điều khiển qua ứng dụng, thay đổi màu sắc và hẹn giờ bật tắt."
+    }
+  ]
+}

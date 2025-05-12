@@ -1,0 +1,12 @@
+//
+//  release-prod.xcconfig
+//  Runner
+//
+//  Created by Viet Huy on 12/14/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.release-prod.xcconfig"
+#include "Generated.xcconfig"
+FLAVOR=prod

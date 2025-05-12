@@ -1,0 +1,13 @@
+//
+//  debug-staging.xcconfig
+//  Runner
+//
+//  Created by Viet Huy on 12/14/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "Pods/Target Support Files/Pods-Runner/Pods-Runner.debug-staging.xcconfig"
+#include "Generated.xcconfig"
+FLAVOR=staging
+

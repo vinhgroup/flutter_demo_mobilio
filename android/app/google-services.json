@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266329448571",
+    "project_id": "bxanh-management",
+    "storage_bucket": "bxanh-management.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266329448571:android:54275c399a1d86440742de",
+        "android_client_info": {
+          "package_name": "com.bship.management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQH1IdKmdfRRoqFI0k95A9uoVdTiUldBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
