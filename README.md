@@ -8,10 +8,11 @@ Tools • Dart 3.5.3 • DevTools 2.37.3
 
 
 2. install IDE following:
-[√] Windows Version (Installed version of Windows is version 10 or higher)
-[√] Android toolchain - develop for Android devices (Android SDK version 34.0.0)
-[√] Chrome - develop for the web
+Windows Version (Installed version of Windows is version 10 or higher)
+Android toolchain - develop for Android devices (Android SDK version 34.0.0)
+Chrome - develop for the web
 
 3. connect your real phone to the laptop/pc
 4. enable debug mode
-5. run build flavor --> staging
+5. go to terminal and run command: flutter pub get 
+6. go to terminal and run command: flutter run --flavor staging -t lib/main_staging.dart 
